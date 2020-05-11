@@ -1,0 +1,15 @@
+/**
+ * 
+ */
+
+$(document).ready(function() {
+	$( 'a a' ).remove();
+
+	document.documentElement.setAttribute("lang", "en");
+	document.documentElement.removeAttribute("class");
+
+	axe.run( function(err, results) {
+	  console.log( results.violations );
+	} );
+
+});
