@@ -5,11 +5,13 @@
       <div class="row text-center">
         <div class="col-md-6 ml-auto">
           <p class="lead">
-            Copyright &copy;
-            <span id="year"></span>
+            DOST XII-ICT &copy; 2020
           </p>
+          <small style="color:#3ebdd8">Developed by Ras Pangcoga</small> 
         </div>
+         
       </div>
+    	
     </div>
   </div> 
   

@@ -2,7 +2,7 @@
 <%@include file="shared/header.jsp"%>
 
 
-<
+
 <!-- BOXES -->
 <section id="boxes" class="py-5">
 	<div class="container">
@@ -18,7 +18,7 @@
 							<div class="border border-primary m-2">
 
 								<p class="text-muted m-2">${post.title}</p>
-
+ 	
 								<div class="row justify-content-center">
 										<c:forEach items="${post.postDocuments}" var="doc" varStatus="status">											
 												<div class=" text-center  ">

@@ -68,7 +68,7 @@
  			</sec:authorize>
  	      
  	      <li class="nav-item">
-            <a href="${contextRoot}/others?cat=OTHERS" class="nav-link">Others</a>
+            <a href="${contextRoot}/others?cat=OTHERS" class="nav-link">Other Documents</a>
           </li>
           		
            <sec:authorize access="isAuthenticated()">

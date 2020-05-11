@@ -4,7 +4,7 @@
 
 
 <!--  -->
-<section id="about" class="py-5 text-center bg-light">
+<section id="prime-hrm" class="py-5 text-center bg-light">
 	<div class="container">
 		<div class="row">
 			<div class="col">

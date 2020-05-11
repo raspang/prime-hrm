@@ -20,3 +20,7 @@ body.scrollable {
 		right: 10px;
 	}
 }
+
+#boxes, #showcase, #about, #prime-hrm {
+	min-height:89vh;
+}
