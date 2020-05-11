@@ -32,8 +32,8 @@
   <nav class="navbar navbar-nav navbar-expand-md navbar-light fixed-top py-4" id="main-nav">
     <div class="container">
       <a href="#home" class="navbar-brand">
-        <img src="${images}/logo.jpg" width="50" height="50" alt="">
-        <h3 class="d-inline align-middle">DOST-XII</h3>
+        <img src="${images}/dost.png" width="50" height="50" alt="">
+        <h4 class="d-inline align-middle">DOST XII</h4>
       </a>
       <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
         <span class="navbar-toggler-icon"></span>

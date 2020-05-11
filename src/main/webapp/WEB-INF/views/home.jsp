@@ -11,7 +11,7 @@
 					<div class="col-lg-6 text-center">
 						<h1 class="display-2 mt-5 pt-5">Department of Science and
 							Technology</h1>
-						<p class="lead">DOST Regional Office No. XII</p>
+						<p class="lead">DOST Regional Office</p>
 						<a href="${contextRoot}/login"
 							class="btn btn-outline-secondary btn-lg text-white"> <i
 							class="fas fa-sign-in-alt"></i><small>Login Staff</small>
@@ -47,7 +47,7 @@
 					<div class="col-lg-6 text-center">
 						<h1 class="display-2 mt-5 pt-5">Department of Science and
 							Technology</h1>
-						<p class="lead">DOST Regional Office No. XII</p>
+						<p class="lead">DOST Regional Office</p>
 							<div class="lead mt-4">
 							<h4 class="mb-3">You're logged as Admin.</h4>
 							</div>
